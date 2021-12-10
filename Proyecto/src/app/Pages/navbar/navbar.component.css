@@ -1,0 +1,11 @@
+.Titulo {
+    font-size: xx-large;
+    font-family: 'Lucida Grande';
+    font-style: oblique;
+    color: white;
+    text-shadow: 0 1px gold;
+}
+
+nav {
+    height: 800;
+}
