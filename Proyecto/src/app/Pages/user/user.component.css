@@ -1,0 +1,36 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+nav {
+    margin-top: 30px;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    align-content: center;
+    margin-top: 20px;
+}
+
+input,
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: large;
+    align-content: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: justify;
+    margin-top: 100px;
+}
+
+.regresar {
+    margin-top: 50px;
+    text-align: center;
+}
