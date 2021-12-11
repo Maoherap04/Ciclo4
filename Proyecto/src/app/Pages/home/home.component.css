@@ -1,20 +1,32 @@
-h1 {
+.libr {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     align-content: center;
+    font-size: xx-large;
+    margin-top: 20px;
 }
 
 p {
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
 }
 
-.text1 {
-    text-align: center;
+.nav-link {
+    text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: black;
+    margin-right: 190px;
+    margin-left: 190px;
 }
 
 img.izquierda {
     float: left;
     margin-right: 15px;
+}
+
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
 }
